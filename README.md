@@ -8,7 +8,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Screenshot
 
-[<img src="design/desktop-design.jpg" alt="Imagem do projeto">]
+[<img src="./src/images/design/desktop-design.jpg" alt="Imagem do projeto">]
 
 
 ## Tecnologias utilizadas
